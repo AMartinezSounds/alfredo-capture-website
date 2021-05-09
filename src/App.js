@@ -1,6 +1,12 @@
+//Import pages
+import AboutUs from './pages/AboutUs';
+
 function App() {
   return (
-    <h1>Film</h1>
+    <div>
+      <AboutUs/>
+    </div>
+    
   );
 }
 
