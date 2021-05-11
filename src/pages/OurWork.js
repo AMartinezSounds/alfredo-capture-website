@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 import {useScroll} from '../components/useScroll';
+import ScrollTop from "../components/ScrollTop";
 
 // import images
 import athlete from "../img/athlete-small.png";
@@ -10,6 +11,9 @@ import goodtimes from "../img/goodtimes-small.png";
 
 import { motion } from 'framer-motion';
 import {sliderContainer, slider, pageAnimation, fade, photoAnim, lineAnim } from '../animation';
+
+
+
 
 function OurWork() {
     const [element, controls] = useScroll();
@@ -46,6 +50,7 @@ function OurWork() {
                     <img src={goodtimes} alt="goodtimes" />
                 </Link>
             </Movie>
+            <ScrollTop/>
         </Work>
     )
 };
