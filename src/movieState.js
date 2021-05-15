@@ -17,17 +17,17 @@ export const MovieState = () => {
         {
           title: 'Truly A masterpiece',
           description:
-            '“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”',
+            '“John Andrew manages to reproduce the lovable character with a recognizable charm and personality.”',
         },
         {
           title: 'Fresh look on a brutal sport.',
           description:
-            '“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”',
+            '“Implausible but entertaining and poignant, The Athlete finds the champ in fighting form for the first time in years.”',
         },
         {
           title: 'It’s okay lmao.',
           description:
-            '“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”',
+            '"There is nothing particularly memorable here -- no profound triumphs or lasting rallying cries."',
         },
       ],
     },
@@ -38,19 +38,19 @@ export const MovieState = () => {
       secondaryImg: goodtimes2,
       awards: [
         {
-          title: 'Truly A masterpiece',
+          title: 'Addictive',
           description:
-            '“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”',
+            '“it is a film I genuinely love and was thrilled to rewatch.”',
         },
         {
-          title: 'Fresh look on a brutal sport.',
+          title: 'Fantastic.',
           description:
-            '“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”',
+            '“It iss escapism at its very finest, it looks visually stunning and you will be transported to a world of fantasy and imagination that is well worth the price of the ticket”',
         },
         {
-          title: 'It’s okay lmao.',
+          title: 'Unsurpraising.',
           description:
-            '“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”',
+            '“The simple truth is that Hannah and George are still wholly unconvincing in their coupling.”',
         },
       ],
     },
@@ -61,19 +61,19 @@ export const MovieState = () => {
       secondaryImg: theracer2,
       awards: [
         {
-          title: 'Truly A masterpiece',
+          title: 'Honed action escenes',
           description:
-            '“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”',
+            '“Lin has really amped up the unbelievable factor here with some of the action sequences.”',
         },
         {
-          title: 'Fresh look on a brutal sport.',
+          title: 'An astonishing experience',
           description:
-            '“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”',
+            '“Turn off the ignition in your head, then throttle up all other senses, and you will feel the rush of this guilty-pleasure joy ride to the max.”',
         },
         {
-          title: 'It’s okay lmao.',
+          title: 'Not bad at all.',
           description:
-            '“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”',
+            '“The plot is so generic that it never even tries to reason with the audience.”',
         },
       ],
     },

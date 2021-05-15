@@ -28,33 +28,33 @@ const ServicesSection = () => {
                             <img src={clock} alt="clock"/>
                             <h3>Efficient</h3>
                         </div>
-                        <p>Lorem ipsum dolor sit amet.</p>
+                        <p>In order to operate at maximum efficiency, we check our professionals portfolio and test their skills.</p>
                     </Card>
                     <Card>
                         <div className="icon">
                             <img src={teamwork} alt="teamwork"/>
                             <h3>Teamwork</h3>
                         </div>
-                        <p>Lorem ipsum dolor sit amet.</p>
+                        <p>Trusting people is the key to effective teamwork. They know best how to do their own work!</p>
                     </Card>
                     <Card>
                         <div className="icon">
                             <img src={diaphragm} alt="diaphragm"/>
-                            <h3>Diaphragm</h3>
+                            <h3>High Quality</h3>
                         </div>
-                        <p>Lorem ipsum dolor sit amet.</p>
+                        <p>We constanly renew our equipment to reach that top level.</p>
                     </Card>
                     <Card>
                         <div className="icon">
                             <img src={money} alt="money"/>
                             <h3>Affordable</h3>
                         </div>
-                        <p>Lorem ipsum dolor sit amet.</p>
+                        <p>We do our best to optimise our rates to turn your dreams into reality.</p>
                     </Card>
                 </Cards>
             </Description>
             <Image>
-                <img src={home2} alt="" />
+                <img src={home2} alt="Camera in action" />
             </Image>
         </Services>
     );

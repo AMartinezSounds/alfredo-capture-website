@@ -21,38 +21,33 @@ const FaqSection = () => {
       <AnimateSharedLayout>
         <Toggle title="How Do I Start?">
           <div className="answer">
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Believe us. We would like to listen to your idea.</p>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi
-              autem accusamus ex laboriosam porro, adipisci quam voluptatum
-              magnam placeat corporis.
+              It is very important we all are in the same page, so we will agree a call through Skype. We want to see your face no matter where you are.
             </p>
           </div>
         </Toggle>
         <Toggle title="Daily Schedule">
           <div className="answer">
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>We are open 24/7... or kind of.</p>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error,
-              totam.
+              We spend tons of hours in our office every day so it is almost impossible not to meet us.
             </p>
           </div>
         </Toggle>
-        <Toggle title="Diferrent Payment Methods">
+        <Toggle title="Diferent Payment Methods">
           <div className="answer">
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>We accept different payment methods. Bitcoins included.</p>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Necessitatibus, neque.
+              We accept payments with Paypal, bank transfers or Bizum.
             </p>
           </div>
         </Toggle>
         <Toggle title="What Products do you offer.">
           <div className="answer">
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>We offer a question: What does your project need?</p>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Necessitatibus, neque.
+              Do not worry for what we can do. Really, just tell us your idea, we will take care of the rest.
             </p>
           </div>
         </Toggle>
